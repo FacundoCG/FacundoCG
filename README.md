@@ -6,6 +6,8 @@
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/python/python-original.svg" style="padding-right:10px;">
 
+<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cib-angular_%28CoreUI_Icons_v1.0.0%29.svg/1200px-Cib-angular_%28CoreUI_Icons_v1.0.0%29.svg.png" style="padding-right:10px;" />
+
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;">
