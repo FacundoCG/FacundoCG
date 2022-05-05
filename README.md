@@ -28,3 +28,4 @@
 
 ### Contact with me:
 
+#### <img align="left" alt="Gmail" width="26px" src="https://cloud.githubusercontent.com/assets/7534680/4515518/6739a508-4bc1-11e4-80bc-670bcc216762.png" style="padding-right:10px;" /> coronelfacundo30@gmail.com
