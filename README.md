@@ -6,7 +6,15 @@
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/icons/python/python-original.svg" style="padding-right:10px;">
 
-<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cib-angular_%28CoreUI_Icons_v1.0.0%29.svg/1200px-Cib-angular_%28CoreUI_Icons_v1.0.0%29.svg.png" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-plain.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Haskell" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
@@ -18,9 +26,7 @@
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
 <br />
 
